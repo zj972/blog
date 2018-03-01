@@ -102,3 +102,6 @@ post-default-img: background.jpg
 sidebar: true
 sidebar-about-description: "一个爱折腾的小码农"
 sidebar-avatar: icon.jpg
+
+#Baidu Analytics**
+ba_track_id: 0fbb6f3fdd33430fcb22fa1882adfcca
