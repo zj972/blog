@@ -2,23 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5b09c56-5399-4eeb-b902-8d867e088f9a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/Git子模块-初遇.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/GitHub Page绑定个人域名/404.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/GitHub Page绑定个人域名/github.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/icon.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/Anisina" afterPath="$PROJECT_DIR$/themes/Anisina" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/next" afterPath="$PROJECT_DIR$/themes/next" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/next/source/images/apple-touch-icon-next.png" afterPath="$PROJECT_DIR$/themes/next/source/images/apple-touch-icon-next.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/next/source/images/favicon-16x16-next.png" afterPath="$PROJECT_DIR$/themes/next/source/images/favicon-16x16-next.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/next/source/images/favicon-32x32-next.png" afterPath="$PROJECT_DIR$/themes/next/source/images/favicon-32x32-next.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/GitHub Page绑定个人域名.md" afterPath="$PROJECT_DIR$/source/_posts/GitHub Page绑定个人域名.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/anisina/_config.yml" afterPath="$PROJECT_DIR$/themes/anisina/_config.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/anisina/layout/_partial/footer.ejs" afterPath="$PROJECT_DIR$/themes/anisina/layout/_partial/footer.ejs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/next/_config.yml" afterPath="$PROJECT_DIR$/themes/next/_config.yml" />
@@ -340,12 +329,12 @@
       <workItem from="1520230359767" duration="276000" />
       <workItem from="1520230753628" duration="1044000" />
       <workItem from="1520231953540" duration="12477000" />
-      <workItem from="1520244694268" duration="3770000" />
+      <workItem from="1520244694268" duration="3978000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61026000" />
+    <option name="totallyTimeSpent" value="61234000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1672" y="-8" width="1696" height="1036" extended-state="6" />
