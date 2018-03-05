@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5b09c56-5399-4eeb-b902-8d867e088f9a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/next" afterPath="$PROJECT_DIR$/themes/next" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/next/source/images/apple-touch-icon-next.png" afterPath="$PROJECT_DIR$/themes/next/source/images/apple-touch-icon-next.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/next/source/images/favicon-16x16-next.png" afterPath="$PROJECT_DIR$/themes/next/source/images/favicon-16x16-next.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/next/source/images/favicon-32x32-next.png" afterPath="$PROJECT_DIR$/themes/next/source/images/favicon-32x32-next.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/next/_config.yml" afterPath="$PROJECT_DIR$/themes/next/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/next/layout/_layout.swig" afterPath="$PROJECT_DIR$/themes/next/layout/_layout.swig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/next/layout/_macro/post.swig" afterPath="$PROJECT_DIR$/themes/next/layout/_macro/post.swig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/next/layout/_partials/footer.swig" afterPath="$PROJECT_DIR$/themes/next/layout/_partials/footer.swig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/next/layout/_third-party/analytics/busuanzi-counter.swig" afterPath="$PROJECT_DIR$/themes/next/layout/_third-party/analytics/busuanzi-counter.swig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/next/source/css/_schemes/Mist/_header.styl" afterPath="$PROJECT_DIR$/themes/next/source/css/_schemes/Mist/_header.styl" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/next" afterPath="" />
     </list>
     <ignored path="zj972.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,7 +20,18 @@
     <favorites_list name="zj972.github.com" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name=".gitmodules" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitmodules">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -100,6 +101,7 @@
         <option value="$PROJECT_DIR$/themes/next/_config.yml" />
         <option value="$PROJECT_DIR$/themes/next/source/lib/canvas-nest/canvas-nest.min.js" />
         <option value="$USER_HOME$/Desktop/test.js" />
+        <option value="$PROJECT_DIR$/.gitmodules" />
       </list>
     </option>
   </component>
@@ -113,7 +115,6 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
-    <handled-path value="$PROJECT_DIR$/themes/next/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1672" />
@@ -290,8 +291,8 @@
     </list>
     <recent_temporary>
       <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="npm.push" />
-        <item index="1" class="java.lang.String" itemvalue="npm.test" />
+        <item index="0" class="java.lang.String" itemvalue="npm.test" />
+        <item index="1" class="java.lang.String" itemvalue="npm.push" />
         <item index="2" class="java.lang.String" itemvalue="npm.build" />
       </list>
     </recent_temporary>
@@ -327,22 +328,22 @@
       <workItem from="1520230753628" duration="1044000" />
       <workItem from="1520231953540" duration="12477000" />
       <workItem from="1520244694268" duration="3978000" />
-      <workItem from="1520252685771" duration="270000" />
+      <workItem from="1520252685771" duration="1183000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61504000" />
+    <option name="totallyTimeSpent" value="62417000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1672" y="-8" width="1696" height="1036" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46507353" sideWeight="0.5758197" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46507353" sideWeight="0.56438357" order="3" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42396313" sideWeight="0.502451" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23284313" sideWeight="0.42418033" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5794931" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46507353" sideWeight="0.43561643" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3778802" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43894008" sideWeight="0.49754903" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -404,7 +405,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/_posts/test.md" />
     <entry file="file://$PROJECT_DIR$/source/Tags/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -699,6 +699,14 @@
             <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitmodules">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
