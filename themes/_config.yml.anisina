@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Haojen # your blog title name
+title: Sarbo # your blog title name
 subtitle:  
-author: Haojen Ma # 作者
+author: Sarbo Yang # 作者
 language: zh-Hans
 timezone: 
 
@@ -13,8 +13,8 @@ timezone:
 # more detail check out docs
 SEOTitle: Haojen's blog 
 header-img: //o7bkkhiex.bkt.clouddn.com/lion-blur-bg.jpg
-email: HaojenMa@gmail.com
-description: "马浩珍在 Github 上的个人博客"
+email: mail@yangshaobo.cn
+description: "杨少波在 Github 上的个人博客"
 keyword: # seo key words
 
 favicon: # your favicon png

@@ -104,8 +104,8 @@ archive:
     description: 可以根据归档日期检索所有文件
 
 # search
-algolia:
-  applicationID: 'WKBFU1K47P'
-  apiKey: '48fbca8c27faef3579f644206f124a6f'
-  indexName: 'WKBFU1K47P'
-  chunkSize: 5000
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
