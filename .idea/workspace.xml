@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5b09c56-5399-4eeb-b902-8d867e088f9a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/next" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitmodules" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="zj972.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -136,6 +135,7 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/themes/next/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1672" />
@@ -344,12 +344,12 @@
       <workItem from="1520231953540" duration="12477000" />
       <workItem from="1520244694268" duration="3978000" />
       <workItem from="1520252685771" duration="2398000" />
-      <workItem from="1520255098597" duration="173000" />
+      <workItem from="1520255098597" duration="516000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63805000" />
+    <option name="totallyTimeSpent" value="64148000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1672" y="-8" width="1696" height="1036" extended-state="6" />
