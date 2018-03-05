@@ -3,7 +3,6 @@ layout: post
 title: GitHub Page绑定个人域名
 date: 2018-03-02 10:23:20
 author: "Sarbo Yang"
-header-img: "github.png"
 tags:
 	- GitHub
 ---
@@ -13,7 +12,9 @@ tags:
 
 但是遇到一个问题：每次`hexo d -g`之后，访问`www.yangshaobo.cn`就变成了404。DNS解析是正常的，打开项目的setting，却发现`Custom domain`的值为空。
 
-![404](./404.png)
+<div align=center>
+![404](http://img.yangshaobo.cn/404.png)
+</div>
 
 ## 发现问题
 
