@@ -31,7 +31,7 @@ Changes not staged for commit:
 no changes added to commit (use "git add" and/or "git commit -a")
 ```
 
-看了一下网上的解释，原来是因为我是```clone```的代码，next文件下有.git的存在，只需要删除就可以。删除虽然可以解决问题，但这样就无法更新next了，如果下载后手动合并自己的修改又过于麻烦。而且由于我是深度修改了next，很多文件都进行了修改，所以无法像[issues](https://github.com/iissnan/hexo-theme-next/issues/328)那样，提取个人的配置，不对next进行修改。
+看了一下网上的解释，原来是因为我是clone的代码，next文件下有.git的存在，只需要删除就可以。删除虽然可以解决问题，但这样就无法更新next了，如果下载后手动合并自己的修改又过于麻烦。而且由于我是深度修改了next，很多文件都进行了修改，所以无法像[issues](https://github.com/iissnan/hexo-theme-next/issues/328)那样，提取个人的配置，不对next进行修改。
 
 ## 子模块使用
 
