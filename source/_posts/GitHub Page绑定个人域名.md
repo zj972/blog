@@ -3,6 +3,8 @@ layout: post
 title: GitHub Page绑定个人域名
 date: 2018-03-02 10:23:20
 author: "Sarbo Yang"
+categories:
+    - 编程人生
 tags:
 	- GitHub
 ---
