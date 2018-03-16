@@ -8,7 +8,6 @@ categories:
 tags:
 	- GitHub
 ---
-## 前情提要
 
 自己的服务器到期了，然后打算在GitHub上面搭个个人博客玩玩，最后选择了Hexo。搭建起来后，用自己的域名绑定了GitHub Page。
 
