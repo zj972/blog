@@ -32,3 +32,5 @@ Tips：使用预览会忽略文章的格式，直接显示为正文文本。
 <div align=center>
 ![auto_excerpt](http://img.yangshaobo.cn/auto_excerpt.png)
 </div>
+
+END
