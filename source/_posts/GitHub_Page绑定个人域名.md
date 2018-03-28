@@ -1,12 +1,12 @@
 ---
 layout: post
 title: GitHub Page绑定个人域名
-date: 2018-03-02 10:23:20
-author: "Sarbo Yang"
+author: Sarbo Yang
 categories:
-    - 编程人生
+  - 编程人生
 tags:
 	- GitHub
+date: 2018-03-02 10:23:20
 ---
 
 自己的服务器到期了，然后打算在GitHub上面搭个个人博客玩玩，最后选择了Hexo。搭建起来后，用自己的域名绑定了GitHub Page。
